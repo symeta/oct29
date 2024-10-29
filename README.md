@@ -34,6 +34,7 @@
 - [2.hpc7a performance blog](https://aws.amazon.com/cn/blogs/hpc/optimizing-mpi-application-performance-on-hpc7a-by-effectively-using-both-efa-devices/)
 - [3.graviton instance](https://aws.amazon.com/ec2/graviton/)
 - [4.gpu instance](https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
+- [5.parallel cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/what-is-aws-parallelcluster.html)
 
 ## cluster placement group
 
