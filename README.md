@@ -31,4 +31,9 @@
 - [2.product doc](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
 - [3.sample code](https://github.com/aws-samples/amazon-efs-workshop)
 
+## compute - hpc, graviton, gpu&Inferentia&Trainium
 
+- [1.ec2 instance types](https://aws.amazon.com/ec2/instance-types/)
+- [2.hpc7a performance blog](https://aws.amazon.com/cn/blogs/hpc/optimizing-mpi-application-performance-on-hpc7a-by-effectively-using-both-efa-devices/)
+- [3.graviton instance](https://aws.amazon.com/ec2/graviton/)
+- [4.gpu instance](https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
