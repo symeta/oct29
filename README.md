@@ -1,5 +1,13 @@
 # oct29
 
+## what's new with aws 2024
+- [1.compute](https://aws.amazon.com/about-aws/whats-new/2024/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=marketing-marchitecture%23compute
+)
+- [2.storage](https://aws.amazon.com/about-aws/whats-new/2024/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=marketing-marchitecture%23storage
+)
+- [3.network](https://aws.amazon.com/about-aws/whats-new/2024/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=marketing-marchitecture%23networking-and-content-delivery
+)
+
 ## bedrock fine-tune & continued pre-training
 
 - [1.product doc](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
